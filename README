@@ -1,0 +1,2 @@
+this repo follow the UFLDL tutorial on linear autoencoder. 
+The training set is no longer MNIST, but the interesting 3 channel RGB image. 

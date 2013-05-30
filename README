@@ -7,3 +7,8 @@ the overall training only has finetune, meaning, for this autoencoder, we don't 
 
 2. ==========================================
 run the validate_cost_grad_func.m  to check if the cost function and the gradient computations are correct. 
+
+3. ==========================
+with 400 iterations, the run time is ~900s = ~15min. 
+
+4.========================================
